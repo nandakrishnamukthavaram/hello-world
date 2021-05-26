@@ -1,4 +1,4 @@
-# hello-world
+# LearningPython
 This repository contains the code with which I practiced while learning python from scratch
 # n = int(input("Enter a number"))
 #
